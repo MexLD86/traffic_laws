@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckboxSnackbarTask2</string>
+    <string name="info">1. Установите флажок в checkbox \'Показать информацию\'\n2. В поле \'Информация\' появится текст \'Правила дорожного движения\'\n3. Ниже появится основные правила дорожного движения</string>
+    <string name="title_info">Инструкция:</string>
+    <string name="traffic_laws">Основные правила дорожного движения</string>
+    <string name="hint_info">Информация</string>
+    <string name="show_info">Показать информацию</string>
+    <string name="title_app">Программа: \'Правила дорожного движения\'</string>
+</resources>
